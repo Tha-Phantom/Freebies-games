@@ -15,7 +15,7 @@ Build
 - Preview production build:
   npm run preview
 
-- Host as server in the same web.
+- Host as server in the same web:
   npm run dev -- --host 2>&1
 
 
